@@ -1,3 +1,5 @@
+package main.scala
+
 object CollectionsAndStrings {
   def main(args: Array[String]) :Unit = {
     val y = List(1,2,3)

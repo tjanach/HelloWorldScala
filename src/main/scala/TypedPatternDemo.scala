@@ -1,3 +1,5 @@
+package main.scala
+
 object TypedPatternDemo extends App{
 
   def fn(a :Any):String = a match {

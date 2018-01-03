@@ -1,3 +1,5 @@
+package main.scala
+
 object listMatchingDemo extends App{
 
   def sumInts(list: List[Int]):Int = list match {

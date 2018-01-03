@@ -1,3 +1,5 @@
+package main.scala
+
 class Car(milesPerGalon:Int, gallonsPerTank:Int) {
   var mpg: Int = milesPerGalon
   var gpt: Int = gallonsPerTank

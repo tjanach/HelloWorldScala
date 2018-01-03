@@ -1,4 +1,4 @@
-package interoperability
+package main.scala.interoperability
 
 import scala.beans.BeanProperty
 

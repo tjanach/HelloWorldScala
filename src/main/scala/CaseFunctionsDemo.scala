@@ -1,3 +1,5 @@
+package main.scala
+
 object CaseFunctionsDemo extends App {
   val list = List("Bob","Johan", "Marc", "Steve")
 

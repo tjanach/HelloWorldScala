@@ -1,3 +1,5 @@
+package main.scala
+
 object IfElseDemo extends App {
   //classical approach
   val a =1

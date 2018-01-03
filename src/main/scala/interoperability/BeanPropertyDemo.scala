@@ -1,4 +1,4 @@
-package interoperability
+package main.scala.interoperability
 
 object BeanPropertyDemo extends App {
   val c = new Camera("Nikon", "D3")

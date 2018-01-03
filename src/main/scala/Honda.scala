@@ -1,3 +1,5 @@
+package main.scala
+
 class Vehicle(vehicleName: String){
   var name: String = vehicleName
   var avgSpeed: Int = 0

@@ -1,3 +1,5 @@
+package main.scala
+
 class Ball(diameter: Double) {
   var d: Double = diameter
   var c: Double = 0

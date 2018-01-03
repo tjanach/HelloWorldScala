@@ -1,3 +1,5 @@
+package main.scala
+
 object CaseClassesDemo extends App {
 
   abstract class DelimitedLine

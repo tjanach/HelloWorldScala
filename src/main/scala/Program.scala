@@ -1,3 +1,5 @@
+package main.scala
+
 object Program {
   def main(args: Array[String]) :Unit = {
     //scala closure example

@@ -1,3 +1,5 @@
+package main.scala
+
 
 object TennisBall {
   def main(args: Array[String]){
